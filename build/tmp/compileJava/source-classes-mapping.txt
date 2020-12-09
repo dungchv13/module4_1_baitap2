@@ -1,0 +1,8 @@
+config/AppInit.java
+ config.AppInit
+config/AppConfiguration.java
+ config.AppConfiguration
+controllers/GreetingCtrl.java
+ controllers.GreetingCtrl
+controllers/DictionaryCtrl.java
+ controllers.DictionaryCtrl
